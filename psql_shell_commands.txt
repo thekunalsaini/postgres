@@ -1,0 +1,9 @@
+command: \l
+command: \c userinfodb
+command: \d users
+command: \d roles
+command: \d user_roles
+command: select * from roles;
+	   After POST admin and user in postman
+command: select * from users;
+	   continue with GET and POST in postman to verify logic in different ways
